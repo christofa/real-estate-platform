@@ -17,3 +17,16 @@ Built with React, ensuring a smooth, responsive user experience.
 *	🔗 Scalable Architecture
 Easy to update, extend, or integrate new features through Webiny’s flexible CMS structure.
 
+## 🛠️ Tech Stack
+### Frontend
+	* React
+	* Apollo Client
+	* GraphQL
+
+### CMS / Backend
+	* Webiny CMS
+	* Webiny’s GraphQL API
+### Development Tools
+	* JavaScript / TypeScript (if used)
+    * Vite (add if used)
+	* TailwindCSS (add if used)
